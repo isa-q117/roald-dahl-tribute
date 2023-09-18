@@ -1,0 +1,38 @@
+#image {
+    max-height: 100%;
+    max-width: 100%;
+    display: block;
+}
+
+h1 {
+    color: violet;
+    font-family: papyrus;
+    text-align: center;
+    font-size: 75px;
+    margin: 0;
+}
+
+h2 {
+    color: violet;
+    font: Georgia;
+    text-align: center;
+    font-size: 50px;
+    margin: 0;
+}
+
+h3 {
+    color: violet;
+    font: Georgia;
+    text-align: center;
+    font-size: 39px;
+}
+
+#img-caption {
+    color: rgb(54, 51, 51)
+}
+
+#tribute-info {
+    font: Georgia;
+    font-size: 25px;
+
+}
